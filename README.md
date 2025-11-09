@@ -36,7 +36,7 @@ I specialize in building **flexible, maintainable systems** that don't require c
 
 **Core expertise**:
 - **Backend Architecture**: Kotlin, Java, Groovy scripting
-- **Frontend**: Vue.js, responsive web apps
+- **Frontend**: React, Vue.js, Angular, responsive web apps
 - **Databases**: PostgreSQL, Ebean ORM, Redis caching
 - **APIs**: RESTful services, WebSocket real-time data
 - **Financial Systems**: Trading platforms, payment gateways, ERP
